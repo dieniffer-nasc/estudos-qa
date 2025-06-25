@@ -34,4 +34,10 @@
 **Quando** insiro um nome de usuário inválido  
 **E** insiro uma senha inválida  
 **E** clico no botão "Login"  
-**Então** devo ver uma mensagem de erro informando que os dados são inválidos
+**Então** devo ver uma mensagem de erro informando "Nome de usuário e senha não correspondem a nenhum usuário neste serviço". 
+
+**Resultado obtido:**  
+✅ Mensagem de erro exibida com sucesso.
+
+**Evidência** :
+![Imagem demonstrativa](./evidencias/mensagem-de-erro.png)
