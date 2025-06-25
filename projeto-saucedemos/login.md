@@ -6,6 +6,12 @@
 **E** devo ver um campo para inserção da senha  
 **E** devo ver um botão com o texto "Login"
 
+**Resultado obtido:**  
+✅ Todos os elementos foram exibidos corretamente.
+
+**Evidência** :
+![Imagem demonstrativa](./evidencias/login-sucesso.png)
+
 ---
 
 ## 2. Cenário: Login com credenciais válidas
@@ -14,6 +20,12 @@
 **E** insiro uma senha válida  
 **E** clico no botão "Login"  
 **Então** devo ser redirecionado para a página de produtos
+
+**Resultado obtido:**  
+✅ Login realizado com sucesso.
+
+**Eviência**
+[Vídeo demonstrativo](./evidencias/login-com-sucesso.mp4)
 
 ---
 
