@@ -7,7 +7,7 @@
 **Resultado obtido:** 
 ❌ Os componentes da tela estão apresentando alguns erros de posicionamento.
 
-**Evidência visual de falhas no layout – Tela de Produtos**
+**Evidência:**
 
 Problemas identificados:
 
@@ -17,7 +17,7 @@ Problemas identificados:
 
 3.O botão “Add to cart” do item “Test.allTheThings() T-Shirt (Red)” está fora da caixa do produto.
 
-![Imagem demonstrativa](./evidencias/falhas-no-layout–tela-de-produtos.png)
+![Imagem demonstrativa](./evidencias/falhas-no-layout.png)
 
 
 ---
