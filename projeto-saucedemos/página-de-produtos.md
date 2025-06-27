@@ -5,6 +5,7 @@
 **Então** devo ver os campos posicionados corretamente na tela
 
 **Resultado obtido:** 
+
 ❌ Os componentes da tela estão apresentando alguns erros de posicionamento.
 
 **Evidência:**
