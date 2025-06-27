@@ -6,5 +6,6 @@ O objetivo do projeto é praticar a criação de casos de teste, execução manu
 
 Funcionalidades testadas:
 - Login
+- Página Inicial - Produtos 
 
 
